@@ -1,0 +1,13 @@
+body {
+    padding: 50px;
+}
+
+.card {
+    max-width: 500px;
+}
+.pig {
+    width: 200px;
+    height: auto;
+    margin-left: auto;
+    padding: 30px;
+}
